@@ -1,0 +1,25 @@
+body{
+    margin: 0;
+    padding: 0;
+    
+}
+
+.datos{
+    
+    
+    display: grid;
+  justify-content: center;
+  align-items: center;
+   
+}
+
+.datos-h{
+    margin: 0;
+    padding: 0;
+    width: 1500px !important;
+    height: 800px !important;
+    
+}
+h1{
+    color: rgb(85, 73, 190);
+}
